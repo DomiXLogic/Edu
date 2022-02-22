@@ -23,7 +23,7 @@ public class MainTest {
 				break;
 			default:
 				System.out.println("Error!");
-				System.out.println("The grade you entered is not valid!");
+				System.out.println("The grade you entered is not valid!!!");
 		}
 
   }// class
